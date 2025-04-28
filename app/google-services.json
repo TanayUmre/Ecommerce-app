@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "827491007618",
+    "firebase_url": "https://giftkartapp-default-rtdb.firebaseio.com",
+    "project_id": "giftkartapp",
+    "storage_bucket": "giftkartapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827491007618:android:6fe34e982c4b1306a2089b",
+        "android_client_info": {
+          "package_name": "com.example.giftkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4cjJho1dWo2ZPGl0sfdc1CWleYPK2Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827491007618:android:0aa1e6cb463e60d6a2089b",
+        "android_client_info": {
+          "package_name": "com.example.giftkartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4cjJho1dWo2ZPGl0sfdc1CWleYPK2Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827491007618:android:5d3a85af401b5975a2089b",
+        "android_client_info": {
+          "package_name": "com.example.productadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4cjJho1dWo2ZPGl0sfdc1CWleYPK2Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
