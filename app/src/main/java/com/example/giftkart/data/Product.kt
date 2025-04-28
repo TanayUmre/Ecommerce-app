@@ -1,18 +1,13 @@
 package com.example.giftkart.data
 
-import android.os.Parcelable
-import kotlinx.parcelize.Parcelize
-
-@Parcelize
 data class Product(
     val id: String,
     val name: String,
     val category: String,
-    val price: Float,
-    val offerPercentage: Float? = null,
-    val description: String? = null,
-    val colors: List<Int>? = null,
-    val sizes: List<String>? = null,
-    val images: List<String>):Parcelable{
-        constructor():this("0","","",0f,images = emptyList())
-    }
+    val description: String,
+    val price: Double,
+    val imageResource: Int,
+    val sizeOptions: List<String>? = null,
+    val inkColors: List<String>? = null,
+    val additionalImages: List<Int>? = null // NEW: For multiple additional images
+)

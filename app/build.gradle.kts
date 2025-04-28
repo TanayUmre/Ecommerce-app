@@ -3,7 +3,7 @@
     alias(libs.plugins.kotlin.android)
     kotlin("plugin.parcelize")
     id("androidx.navigation.safeargs.kotlin") version "2.8.9"
-    id("com.google.dagger.hilt.android") version "2.48"
+    id("com.google.dagger.hilt.android") version "2.51.1"
     kotlin("kapt")
 //    id("com.google.gms.google-services") version "4.4.
 }
@@ -96,4 +96,5 @@ dependencies {
     implementation("androidx.room:room-runtime:2.7.1")
     implementation("androidx.room:room-ktx:2.7.1")
     kapt("androidx.room:room-compiler:2.7.1")
+    implementation("androidx.documentfile:documentfile:1.0.1")
 }
