@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Giftkart</string>
+    <string name="rightaddress">Gifting,\nMade Easy</string>
+    <string name="quality">The best quality on the internet\nnow easier than ever to find!</string>
+    <string name="start">Start</string>
+    <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="let_s_login">Let\'s Login</string>
+    <string name="pleaseRegister">Don\'t have an account?<font color="#0000FF">Register</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password"><font color="#0000FF">Forgot Password</font></string>
+    <string name="let_s_register">Let\'s Register</string>
+    <string name="already_have_an_account_register">Already have an account?<font color="#0000FF">Login</font></string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="we_will_send_the_password_reset_link_to_your_registered_email">We will send the password reset link to your registered email</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="search_now">Search Now</string>
+</resources>
