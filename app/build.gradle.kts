@@ -93,4 +93,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.7.3")
     implementation("com.google.android.libraries.identity.googleid:googleid:1.1.1")
     implementation("com.github.vejei:viewpagerindicator:1.0.0-alpha.1")
+    implementation("androidx.room:room-runtime:2.7.1")
+    implementation("androidx.room:room-ktx:2.7.1")
+    kapt("androidx.room:room-compiler:2.7.1")
 }
