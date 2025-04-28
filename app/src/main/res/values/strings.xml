@@ -25,4 +25,6 @@
     <string name="profile">Profile</string>
     <string name="search_now">Search Now</string>
     <string name="product_image">Product image</string>
+    <string name="total_price">Total: $%.2f</string>
+    <string name="price">$%.2f</string>
 </resources>

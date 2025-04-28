@@ -19,4 +19,10 @@ object AppModule {
     @Provides
     @Singleton
     fun provideFirebaseFirestore() = Firebase.firestore
+
+    @Singleton
+    @Provides
+    fun provideSomeDependency(): SomeDependency {
+        return SomeDependencyImpl()
+    }
 }

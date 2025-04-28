@@ -5,6 +5,7 @@ plugins {
     id("androidx.navigation.safeargs.kotlin") version "2.8.9"
     id("com.google.dagger.hilt.android") version "2.51.1"
     kotlin("kapt")
+    id("com.google.gms.google-services")
 }
 
 hilt{
@@ -57,8 +58,6 @@ android {
 kapt {
     correctErrorTypes = true
 }
-
-apply(plugin="com.google.gms.google-services")
 
 dependencies {
 
